@@ -30,7 +30,7 @@ int main()
         }
         for (j = 0; j <= i; j++)
         {
-            printf("%d",newLine[j]);
+            printf("%d ",newLine[j]);
             lastLine[j] = newLine[j];
         }
         printf("\n");
