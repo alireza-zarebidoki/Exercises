@@ -11,7 +11,7 @@ public class Main {
 
         //Input
         Scanner getScanner = new Scanner(System.in);
-        n = getScanner.nextLine();
+        n = getScanner.next();
 
 
         //Calculation
